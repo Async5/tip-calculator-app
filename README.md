@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://your-solution-url.com)
-- Live Site URL: [live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/tip-calculator-app-solution-with-reactjs-styledcomponents-k7vjpkFHd)
+- Live Site URL: [live site URL here](https://suspicious-brattain-698438.netlify.app/)
 
 ## My process
 
